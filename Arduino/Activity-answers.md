@@ -4,11 +4,11 @@
 
 ```c++
 void setup() {
-	pinMode(8, OUTPUT);   // sets digital pin 8 as output
+    pinMode(8, OUTPUT);   // sets digital pin 8 as output
 }
 
 void loop() {
-	digitalWrite(8, HIGH);   // sets digital pin on
+    digitalWrite(8, HIGH);   // sets digital pin on
     delay(1000);             // waits for a second
     digitalWrite(8, LOW);    // sets digital pin off
     delay(1000);             // waits for a second

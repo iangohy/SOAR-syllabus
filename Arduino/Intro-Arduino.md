@@ -36,7 +36,7 @@ The Arduino communicates with your computer by plugging into a USB port. This co
 
 ```c++
 void setup() {
-  Serial.begin(9600);       // opens serial port, sets data rate to 9600 bps
+    Serial.begin(9600);       // opens serial port, sets data rate to 9600 bps
 }
 ```
 
@@ -48,9 +48,9 @@ void setup() {
 
 ```c++
 void setup() {
-  pinMode(10, OUTPUT);        // sets the digital pin 10 as output
-  pinMode(11, INPUT);         // sets the digital pin 11 as input
-  pinMode(12, INPUT_PULLUP)   // sets the digital pin 12 as input, enabling the internal pullup resistor
+    pinMode(10, OUTPUT);        // sets the digital pin 10 as output
+    pinMode(11, INPUT);         // sets the digital pin 11 as input
+    pinMode(12, INPUT_PULLUP)   // sets the digital pin 12 as input, enabling the internal pullup resistor
 }
 ```
 
@@ -68,12 +68,12 @@ int buttonPin = 7;    // pushbutton connected to digital pin 7
 int val = 0;          // variable to store the read value
 
 void setup() {
-  pinMode(buttonPin, INPUT);    // sets the digital pin 7 as input
+    pinMode(buttonPin, INPUT);    // sets the digital pin 7 as input
 }
 
 void loop() {
-  val = digitalRead(inPin);   // read the input pin using digitalRead()
-  Serial.println(val);  // shows the input value read
+    val = digitalRead(inPin);   // read the input pin using digitalRead()
+    Serial.println(val);  // shows the input value read
 }
 ```
 
@@ -83,14 +83,14 @@ void loop() {
 
 ```c++
 void setup() {
-  pinMode(13, OUTPUT);    // sets the digital pin 13 as output
+    pinMode(13, OUTPUT);    // sets the digital pin 13 as output
 }
 
 void loop() {
-  digitalWrite(13, HIGH); // sets the digital pin 13 on
-  delay(1000);            // waits for a second
-  digitalWrite(13, LOW);  // sets the digital pin 13 off
-  delay(1000);            // waits for a second
+    digitalWrite(13, HIGH); // sets the digital pin 13 on
+    delay(1000);            // waits for a second
+    digitalWrite(13, LOW);  // sets the digital pin 13 off
+    delay(1000);            // waits for a second
 }
 ```
 
@@ -115,11 +115,11 @@ Fill in the code below using what we have learnt so far! You can find the soluti
 
 ```c++
 void setup() {
-	// sets digital pin 8 as output
+    // sets digital pin 8 as output
 }
 
 void loop() {
-	// sets digital pin on
+    // sets digital pin on
     delay(1000);    // waits for a second
     // sets digital pin off
     delay(1000):    // waits for a second
