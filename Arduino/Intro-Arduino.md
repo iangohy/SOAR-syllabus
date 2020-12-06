@@ -105,7 +105,7 @@ In this activity, we will use the Arduino Uno to make a LED blink.
 
 Wire up your circuit as follows:
 
-![circuit diagram](/images/activity_1.png)
+![circuit diagram](images/activity_1.png)
 
 In the above circuit, we connected an LED to __pin 8__ of the Arduino Uno. A __330 ohm__ resistor is also connected in series in order to limit the flow of current to the LED as high currents will cause the LED to blow (don't worry it wouldn't explode).
 
