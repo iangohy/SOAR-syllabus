@@ -13,17 +13,18 @@ For more details: https://store.arduino.cc/usa/arduino-uno-rev3
 * The Arduino can be thought of as a big switch that can read inputs.
 * You can program the Arduino to do limitless things just by manipulating when to output a `HIGH` or `LOW` based on the values it is reading.
 
-## Getting to know the Arduio Uno
+## Getting to know the Arduino Uno
+
+// Arduino pictures highlighting important parts
+
+### Arduino Uno Pins
+
 
 
 
 ## Arduino IDE
 
-
-
-## Arduino Uno Pins
-
-
+// Arduino IDE pictures
 
 ## Built-in Arduino functions
 

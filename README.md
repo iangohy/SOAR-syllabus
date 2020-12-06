@@ -12,11 +12,14 @@ A beginner's guide to robotics by SOAR
 
 * Implement tutorials and articles on SOAR website
   * Fundamental and advanced stuff
-* Mentoring system
+* Come up with mentoring system
 
-## Goal
+## Goals
 
-* Self-directed
+* Easy to follow, self-directed learning
+* Activity kits for people to follow along
+* Mentoring
+* Weekly guided lessons
 
 ## Topics
 
