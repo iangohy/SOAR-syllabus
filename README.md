@@ -1,5 +1,11 @@
 # SOAR Syllabus
 
+
+
+__Work in progress!__
+
+
+
 A beginner's guide to robotics by SOAR
 
 ## TODO
@@ -8,9 +14,9 @@ A beginner's guide to robotics by SOAR
   * Fundamental and advanced stuff
 * Mentoring system
 
-## Ideas
+## Goal
 
-
+* Self-directed
 
 ## Topics
 
