@@ -4,7 +4,7 @@
 
 * Arduino Uno is a microcontroller board with 14 digital input/output pins and 6 analog input pins.
 * Runs a fixed set of instructions every time it is turned on.
-* You can think of an Arduino as a computer that does the same thing every time it is turned on.
+* You can think of an Arduino as a computer that runs a fixed program every time it is turned on.
 
 For more details: https://store.arduino.cc/usa/arduino-uno-rev3
 
